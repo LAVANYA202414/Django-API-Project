@@ -202,7 +202,7 @@ else:
 os.environ.setdefault("GOOGLE_APPLICATION_CREDENTIALS", "service_account.json")
 
 os.environ.setdefault(
-    "OPENAI_API_KEY", "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"
+    "OPENAI_API_KEY", ""
 )
 
 
